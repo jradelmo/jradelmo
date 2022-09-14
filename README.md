@@ -13,5 +13,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/jradelmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jradelmo" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/10111012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10111012" height="20" width="30" /></a>
-<a href="https://instagram.com/euadelminho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="euadelminho" height="20" width="30" /></a>
+<a href="https://instagram.com/jradelmo.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="euadelminho" height="20" width="30" /></a>
 </p>

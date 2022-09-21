@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adelmojr07@gmail.com**
 
-- ⚡ Fun fact **Currently, i'm working with business process management**
+- ⚡ Fun fact **Semicolon can change your life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

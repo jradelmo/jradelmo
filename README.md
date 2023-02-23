@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adelmo Junior</h1>
 <h3 align="center">A passionate backend and mobile developer</h3>
 
-- 🌱 I’m currently learning **Flutter and add more knowledge of clean architecture and DDD**
+- 🌱 I’m currently learning **Flutter, rust and add more knowledge of clean architecture and DDD**
 
 - 💬 Ask me about **Flutter or jobs.**
 
-- 📫 How to reach me **adelmojr07@gmail.com**
+- 📫 How to reach me **jradelmo@proton.me**
 
-- ⚡ Fun fact **Semicolon can change your life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
